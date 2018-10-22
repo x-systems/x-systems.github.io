@@ -32,12 +32,12 @@ EPESI has particular focus on modularity which enables the development of additi
 We have developped and released following Premium modules:
 
 ### [Premium/Upload2Fill](/upload2fill_landing_page.html)
-Facilitating read out of data from excel sheet and filling out RecordBrowser record
+A module designed to facilitate read out of data from MS Excel sheet and fill out RecordBrowser record form
 
 ### [Premium/Xport](/xport_landing_page.html)
-Expanding the default printing and export possibilites of EPESI to include WYSIWYG functionality for MS Office / Open Office and PDF formats
+A module designed to expand the default printing and export possibilites of EPESI to include WYSIWYG design functionality for MS Office / Open Office and PDF formats. The module uses document templates designed directly in MS Office / Libre Office software using the Open TBS library and Jaspersoft Studio for PDF.
 
 ### [Premium/Report](/report_landing_page.html)
-The reports module is designed for defining custom overviews for presenting analytical data using various blocks: tables, charts, etc
+A module designed for rapid definition of custom overviews / reports for presenting analytical data using various blocks: tables, charts, etc. The reports are integrated into EPESI system but can also be exported as comprehensive MS Office / Libre Office or PDF print-outs employing the Premium/Xport module functionality
 
 {% include links.html %}
