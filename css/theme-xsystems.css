@@ -6,6 +6,10 @@ body {
 	content: ""
 }
 
+.navbar-inverse .navbar-toggle .icon-bar {
+    background-color: #000000;
+}
+
 span.projectTitle {
 	font-family: "Comic Sans MS", cursive, sans-serif;
 	font-weight: normal;
