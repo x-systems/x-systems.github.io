@@ -11,6 +11,7 @@ port: 4000
 exclude:
 - ".idea/"
 - ".gitignore"
+future: true
 feedback_subject_line: X Systems Website
 feedback_email: info@xsystems.io
 feedback_disable: true
