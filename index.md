@@ -38,6 +38,6 @@ A module designed to facilitate read out of data from MS Excel sheet and fill ou
 A module designed to expand the default printing and export possibilites of EPESI to include WYSIWYG design functionality for MS Office / Open Office and PDF formats. The module uses document templates designed directly in MS Office / Libre Office software using the Open TBS library and Jaspersoft Studio for PDF.
 
 ### [Premium/Report](/report_landing_page.html)
-A module designed for rapid definition of custom overviews / reports for presenting analytical data using various blocks: tables, charts, etc. The reports are integrated into EPESI system but can also be exported as comprehensive MS Office / Libre Office or PDF print-outs employing the Premium/Xport module functionality
+A module designed for rapid definition of custom overviews / reports for presenting analytical data using various blocks: tables, charts, etc. The reports are integrated into EPESI system but can also be exported as comprehensive MS Office / Libre Office or PDF print-outs employing the Premium/Xport module functionality.
 
 {% include links.html %}
